@@ -1,0 +1,119 @@
+About TermSheet
+
+TermSheet streamlines real estate deal processes, from data to documents. Their team powers the industry that powers cities by bringing structure to complex workflows and clarity to high-stakes decisions.
+
+If you’re excited about joining a team that’s innovating an industry and winning clients, TermSheet is the place for you. You’ll find an environment where your ideas are valued and expected, your expertise is respected, and your work makes a real impact.
+
+Engineering at TermSheet
+
+At TermSheet, engineers are trusted owners. They operate autonomously and with high standards and care for the product, customers, and each other. They’re a lean, agile, backend-heavy team focused on scalable systems, clean APIs, and infrastructure that supports real-world transactions.
+
+You’ll work cross-functionally with product, success, and fellow engineers. No silos, no ego. Just smart people building things that last.
+
+Core Values
+
+No Bad Ideas: Brainstorm with curiosity and openness.
+
+Belief in Better: Data and software are transforming real estate.
+
+Built for the Long Term: Prioritizing sustainability.
+
+Customers Are Partners: Treating them as part of the team.
+
+Feedback Driven: Give and receive it often and respectfully.
+
+Be Kind: Kindness is an asset.
+
+Core StackRuby on Rails — core application logic.
+
+PostgreSQL — relational database.
+
+AWS — infrastructure and deployment.
+
+RESTful APIs — serving Angular and React Native clients.
+
+Rake, Bundler, RSpec — development tooling and testing.
+
+Basic frontend awareness is helpful, but not required.
+
+What You’ll Do
+
+Own backend functionality end-to-end. From architecture and implementation to testing, deployment, and monitoring.
+
+Design, build, and maintain scalable systems using Ruby on Rails, PostgreSQL, and modern backend patterns.
+
+Develop and maintain
+
+RESTful APIs that power our Angular and React Native applications (no frontend work required).
+
+Improve system performance, architecture, and reliability as the product scales.
+
+Collaborate with product and engineering teams to refine technical requirements and shape scalable solutions.
+
+Write clean, maintainable, and well-tested code with an eye toward long-term sustainability.
+
+Uphold high standards for code quality, system design, and team collaboration.
+
+Technical Requirements
+
+Advanced Ruby on Rails experience
+
+Strong understanding of PostgreSQL, ORMs, and RESTful API design
+
+Comfort with system design, scalability, and integration architecture
+
+Experience with AWS or similar cloud infrastructure
+
+Familiarity with CI/CD workflows and backend observability practices
+
+Engineering Mindset
+
+Writes clean, maintainable code
+
+Thinks long-term and prioritizes sustainable system design
+
+Balances delivery speed with thoughtful, reusable implementation
+
+Values collaboration, feedback, and kindness
+
+Communication & Culture Fit
+
+Fluent in English
+
+Comfortable working in a remote, async-first environment
+
+Excited to share and discuss ideas in an open, respectful culture
+
+Committed to long-term team and product success
+
+Compensation & Benefits
+
+Self-Managed PTO
+
+$82,000/yr to $90,000/yr
+
+MacBook M3+ supplied by the company
+
+English Classes and premium subscriptions
+
+Accounting and Legal setup advisory (for PJ)
+
+Dedicated career mentor for ongoing support
+
+Direct deposit into your account every two weeks
+
+The company is led by a successful technical CEO
+
+Trip to the USA to hang out with your team (Visa included)
+
+Next Steps
+
+Apply
+
+Keepers Interview (1 hour)
+
+Technical Interview with Carlos, Senior Software Engineer, and Amol, Software Architect. (1 hour)
+
+Final Interview with Jeremy, Director of Engineering, and Anthony, Staffing Engineer. (1 hour)
+
+Learn more
