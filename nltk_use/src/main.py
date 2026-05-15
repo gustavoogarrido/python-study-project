@@ -1,3 +1,5 @@
+from exercizes.comment_window import run_comment_window
+from exercizes.sentiment_comment_window import run_sentiment_comment_window
 from exercizes.tokenizing_example import tokenize_example
 from exercizes.w_translation import run_analisys
 
@@ -10,6 +12,12 @@ EXERCIZES = [
     {
         "function": run_analisys,
         "input_message": "Qual texto gostaria de fazer a análise de sentimentos? ",
+    },
+    {
+        "function": run_comment_window,
+    },
+    {
+        "function": run_sentiment_comment_window,
     },
 ]
 
