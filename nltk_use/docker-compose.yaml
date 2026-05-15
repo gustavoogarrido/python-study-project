@@ -1,0 +1,7 @@
+services:
+  app:
+    build: .
+    container_name: nltk-use-app
+    volumes:
+      - ./src:/app/src
+    command: python src/main.py
